@@ -1,2 +1,2 @@
-# GEDIT
-Here we talk about TECH 🤖
+# Title
+Some Description🤖
