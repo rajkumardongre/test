@@ -1,2 +1,2 @@
-# test
-First Repoository
+# GEDIT
+Here we talk about TECH 🤖
