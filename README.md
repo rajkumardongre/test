@@ -1,3 +1,3 @@
 # Title
-Some Description🤖
+Some Description
 # Naveen Kumar Dongre Feature
