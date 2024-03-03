@@ -1,5 +1,5 @@
 # Github Practice
 
-## Contributors Name:-
+## Contributors Name
 
 - Naveen Kumar Dongre
