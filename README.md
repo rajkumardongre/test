@@ -1,7 +1,5 @@
-# Title
+# Github Practice
 
-    Contributors Name:-
+## Contributors Name:-
 
-<ul>
-<li>Naveen Kumar Dongre</li>
-</ul>
+- Naveen Kumar Dongre
